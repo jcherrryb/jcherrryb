@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi, adriana hereeeee!!!<br><br>I am a final year student in Artificial Intelligence | Data Analyst Advocate 🐱<br><br>My final year project: Developing Predictive Model for Transport Ridership Using Multivariate Weather & Event Factors 🚍🌧️🌞<br><br>Project Overview 🌟<br> i) To identify the main factors influencing public transport ridership in Kuala Lumpur and Selangor.<br>ii) To construct a machine learning prediction model for public transport ridership.<br>iii) To develop an interactive dashboard for real-time prediction and analysis of public<br>transport ridership.
+hi, adriana hereeeee!!!<br><br>I am a final year student in Artificial Intelligence | Data Analyst Advocate 🐱<br><br>My final year project: Developing Predictive Model for Transport Ridership Using Multivariate Weather & Event Factors 🚍🌧️🌞<br><br>Project Overview 🌟<br> i) To identify the main factors influencing public transport ridership in Kuala Lumpur and Selangor.<br>ii) To construct a machine learning prediction model for public transport ridership.<br>iii) To develop an interactive dashboard for real-time prediction and analysis of public transport ridership.
 
 
 ## 🌐 Socials:

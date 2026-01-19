@@ -1,6 +1,35 @@
-# 💫 About Me:
-hi, adriana hereeeee!!!<br><br>I am a final year student in Artificial Intelligence | Data Analyst Advocate 🐱<br><br>My final year project: Developing Predictive Model for Transport Ridership Using Multivariate Weather & Event Factors 🚍🌧️🌞<br><br>Project Overview 🌟<br> i) To identify the main factors influencing public transport ridership in Kuala Lumpur and Selangor.<br>ii) To construct a machine learning prediction model for public transport ridership.<br>iii) To develop an interactive dashboard for real-time prediction and analysis of public transport ridership.
+# Hi, I’m Adriana 👋  
 
+🎓 **Fresh Graduate in Artificial Intelligence**  
+📊 **Data Analyst Advocate** | 💻 **Aspiring Software Engineer**
+
+Former **Data Analyst Intern at Koppiku Sdn. Bhd** ☕ with hands-on experience in data analysis, machine learning, predictive modeling, and dashboard development. Passionate about leveraging data-driven insights and intelligent systems to solve real-world problems.
+
+---
+
+## 🎓 Final Year Project  
+### Developing a Predictive Model for Transport Ridership Using Multivariate Weather & Event Factors 🚍🌧️🌞  
+
+**Project Overview**
+- Identified key factors influencing public transport ridership in Kuala Lumpur and Selangor  
+- Developed a machine learning model to predict public transport demand  
+- Built an interactive dashboard for real-time prediction and analytical insights  
+
+---
+
+## 💼 Professional Experience  
+**Data Analyst Intern — Koppiku Sdn. Bhd** ☕  
+- Performed data cleaning, preprocessing, and exploratory data analysis  
+- Built forecasting and analytical models to support business decision-making  
+- Designed interactive dashboards for sales and performance monitoring  
+- Collaborated with cross-functional teams to translate data into insights  
+
+---
+
+## 🚀 Career Objective  
+Actively seeking a **full-time role** 💼 in **Artificial Intelligence**, **Data Analytics**, or **Software Engineering**, where strong analytical skills, programming expertise, and a problem-solving mindset can contribute to impactful and scalable solutions.
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-alia/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adrianashirin18@gmail.com) 

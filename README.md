@@ -1,9 +1,13 @@
 # Hi, I’m Adriana 👋  
 
-🎓 **Fresh Graduate in Artificial Intelligence**  
-📊 **Data Analyst Advocate** | 💻 **Aspiring Software Engineer**
+🎓 **System Analyst @ 3TD Solutions Sdn Bhd**  
+📊 **Artificial Intelligence Graduate** | 💻 **IT Solutions**
 
-Former **Data Analyst Intern at Koppiku Sdn. Bhd** ☕ with hands-on experience in data analysis, machine learning, predictive modeling, and dashboard development. Passionate about leveraging data-driven insights and intelligent systems to solve real-world problems.
+**Junior System Analyst at 3TD Solutions Sdn. Bhd** and I am currently involved in a system development project where I support requirement gathering, coordinate tasks, and ensure clear communication between users and the development team. I focus on staying organised to help ensure the project runs smoothly and efficiently.
+ Project Involved:
+ • Sistem Pengurusan Maklumat Politeknik (SPMP)
+
+Former **Data Analyst Intern at Koppiku Sdn. Bhd** ☕ with hands-on experience in data analysis, machine learning, predictive modelling, and dashboard development. Passionate about leveraging data-driven insights and intelligent systems to solve real-world problems.
 
 ---
 
@@ -27,7 +31,7 @@ Former **Data Analyst Intern at Koppiku Sdn. Bhd** ☕ with hands-on experience 
 ---
 
 ## 🚀 Career Objective  
-Actively seeking a **full-time role** 💼 in **Artificial Intelligence**, **Data Analytics**, or **Software Engineering**, where strong analytical skills, programming expertise, and a problem-solving mindset can contribute to impactful and scalable solutions.
+Actively seeking a **full-time role** 💼 in **Business Analyst**, **Data Analyst**, or **System Analyst**, where strong analytical skills, programming expertise, and a problem-solving mindset can contribute to impactful and scalable solutions.
 
 ---
 
